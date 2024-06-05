@@ -3,7 +3,7 @@
 ---
 ### Index:
 + [Hello World](hello-world/main.c)
-+ Calculator
++ [Calculator](calculator/main.c)
 + Creating syscalls
 + Basic botnet
 + Basic rootkit
