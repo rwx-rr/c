@@ -2,7 +2,7 @@
 > This repository is only used for my own educational purpose and documentation of my C journey.
 ---
 ### Index:
-+ Hello World 
++ [Hello World](hello-world)
 + Calculator
 + Creating syscalls
 + Basic botnet
